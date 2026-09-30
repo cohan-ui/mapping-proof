@@ -1,7 +1,7 @@
 # Hume and Hovell Track: 3D map proof of concept
 
 - `index.html`: section picker with a 3D terrain block per section (three.js), elevation profile, and per-section GPX downloads. Deep link with `?section=1` to `5` or `?section=all`.
-- `scroll-experience.html`: earlier full-screen, scroll-driven version (MapLibre GL JS + GSAP).
+- `concept-1/`: earlier full-screen, scroll-driven version (MapLibre GL JS + GSAP), served at `/concept-1/`.
 
 ## Run locally
 
